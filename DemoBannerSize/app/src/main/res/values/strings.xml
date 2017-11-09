@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DemoBannerSize</string>
+    <string-array name="bannersizes_largesizes">
+        <item>Banner</item>
+        <item>Large Banner</item>
+        <item>Smart Banner</item>
+        <item>Full Banner</item>
+        <item>Medium Rectangle</item>
+        <item>Leaderboard</item>
+    </string-array>
+    <string-array name="bannersizes_smallsizes">
+        <item>Banner</item>
+        <item>Large Banner</item>
+        <item>Smart Banner</item>
+    </string-array>
+    <string name="admob_banner_ad_unit_id">ca-app-pub-4020885891311146/9688353929</string>
+</resources>
